@@ -44,7 +44,7 @@ is in the *relative* behaviour and in how each paradigm degrades under corruptio
 
 | Task | P1 — Pipeline | P2 — VLM (zero-shot) | P3 — Donut (fine-tuned) |
 |------|:-------------:|:--------------------:|:-----------------------:|
-| Intent classification (accuracy) | via DistilBERT | 84.9% | — |
+| Intent classification (F1 macro) | **100.0%** (DistilBERT) | 81.4% | — |
 | Email field extraction | 100.0% | 89.2% | — |
 | Document field extraction | 97.7% | 72.3% | **98.6%** |
 | Mismatch detection (F1) | **95.7%** | 57.9% | — |
@@ -76,6 +76,7 @@ every input is corrupted at three severities across three scenarios (noisy **tex
 degraded **image**, and **mixed**). Highlights on medium severity:
 
 - **P3 (Donut)** degrades most gracefully on document fields: **98.6% → 96.4%**.
+- **Intent classification** is the most robust task overall: DistilBERT holds **100% F1 even under text augmentation**, while the TF-IDF + LogReg baseline slips to 98.8% — the transformer earns its keep exactly where noise is introduced.
 - **P2 (VLM)** is remarkably stable on intent/email fields but its mismatch F1 is
   brittle, sliding from 57.9% toward ~48% under text noise.
 - **P1 (Pipeline)** is the most exposed: OCR-dependent steps drop noticeably once
