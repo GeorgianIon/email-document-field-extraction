@@ -1,0 +1,10 @@
+{
+  "baseline": {
+    "accuracy": 1.0,
+    "f1_macro": 1.0
+  },
+  "distilbert": {
+    "accuracy": 1.0,
+    "f1_macro": 1.0
+  }
+}
