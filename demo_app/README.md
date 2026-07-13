@@ -5,7 +5,7 @@ single system behind a Streamlit UI.
 
 ## Structure
 
-​```
+```
 demo_app/
 ├── app.py                    # Streamlit application (entry point)
 ├── config.py                 # Configuration (paths, URLs, timeouts)
@@ -23,7 +23,7 @@ demo_app/
 │
 ├── demo_data/                # Local SQLite database
 └── reports/                  # Generated reports
-​```
+```
 
 ## Setup
 
@@ -39,10 +39,10 @@ demo_app/
 
 ### 2. Frontend (local)
 
-​```bash
+```bash
 cd demo_app
 pip install -r requirements.txt
-​```
+```
 
 Configuration (via environment variables, with sensible fallbacks in `config.py`):
 - `DISSERTATION_PATH` — path to the P1 scripts. **Default**: the repo's `../src`
@@ -53,16 +53,16 @@ Configuration (via environment variables, with sensible fallbacks in `config.py`
   set from the UI, at the Setup step.
 
 Example (Windows PowerShell):
-​```powershell
+```powershell
 $env:TESSERACT_PATH = "C:\Program Files\Tesseract-OCR\tesseract.exe"
 $env:COLAB_BACKEND_URL = "https://abc123.ngrok-free.app"
-​```
+```
 
 Start the app:
 
-​```bash
+```bash
 streamlit run app.py
-​```
+```
 
 The browser opens automatically at http://localhost:8501
 
