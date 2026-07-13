@@ -1,0 +1,13 @@
+{
+  "paradigm_2_vlm": {
+    "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+    "intent_accuracy": 0.8488372093023255,
+    "intent_f1": 0.8138967952772507,
+    "email_field_accuracy": 0.8918918918918919,
+    "doc_field_accuracy": 0.7227272727272728,
+    "mismatch_accuracy": 0.7090909090909091,
+    "mismatch_precision": 0.4230769230769231,
+    "mismatch_recall": 0.9166666666666666,
+    "mismatch_f1": 0.5789473684210527
+  }
+}

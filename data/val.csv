@@ -1,0 +1,621 @@
+﻿email_id,intent,subject,body,sender_name,sender_email,sender_company,gt_amount,gt_currency,gt_doc_number,gt_date,mentions_amount,mentions_currency,mentions_doc_number,mentions_date,pair_id,attachment_path,attachment_format,doc_type,doc_amount,doc_currency,doc_doc_number,doc_date,is_consistent,mismatch_field,mismatch_type
+EMAIL-0249,price_validity_confirmation,RE: Quotation – validity update,"Hi Alex,
+
+As requested, we confirm that our offer remains unchanged. All previously communicated terms are still in effect.
+
+Best regards,
+Anna Kowalski
+PrimeEdge Components",Anna Kowalski,a.kowalski@primeedgecomponents.com,PrimeEdge Components,,,,,False,False,False,False,PAIR-0249,attachments/quotation_0249.png,png,quotation,68060.0,EUR,QUO-2026-40625,2024-10-31,True,,
+EMAIL-0349,price_increase,Important: upcoming price changes,"Dear Purchasing Department,
+
+This is a courtesy notice regarding an upcoming adjustment to our standard pricing. The changes reflect increased costs across several product categories.
+
+We will share the updated price list soon.
+
+Sincerely,
+Robert Taylor
+RedLine Automotive Parts",Robert Taylor,r.taylor@redlineautomotivepar.com,RedLine Automotive Parts,,,,,False,False,False,False,PAIR-0349,,,,,,,,True,,
+EMAIL-0223,invoice_submission,RE: Payment – Invoice,"Dear Team,
+
+Please find the attached invoice for the goods delivered last week.
+
+Let us know if everything is in order.
+
+Regards,
+Thomas Mueller
+Xenon Power Solutions",Thomas Mueller,t.mueller@xenonpowersolutions.com,Xenon Power Solutions,,,,,False,False,False,False,PAIR-0223,attachments/invoice_0223.pdf,pdf,invoice,48296.37,RON,BILL-2026-98593,2025-08-03,True,,
+EMAIL-0098,quote_offer,Quotation OFF-2024-67046 – Harmon Tools & Equipment,"Hi Customer,
+
+As per your request, we are pleased to submit our commercial offer.
+
+Quotation number: OFF-2024-67046
+Total: 66.124,94 USD
+Validity: 24 Apr 2025
+
+The detailed breakdown is in the attached document. Please let us know if you'd like to proceed.
+
+Kind regards,
+Maria Garcia
+Harmon Tools & Equipment",Maria Garcia,m.garcia@harmontools&equipmen.com,Harmon Tools & Equipment,66124.94,USD,OFF-2024-67046,2025-04-24,True,True,True,True,PAIR-0098,attachments/quotation_0098.pdf,pdf,quotation,66124.94,USD,OFF-2024-67046,2025-04-24,True,,
+EMAIL-0461,other,RE: Meeting follow-up,"Hi Alex,
+
+Just a quick follow-up on our conversation from last week. Please let us know if you need any additional information from our side.
+
+Thanks,
+Lisa Wang
+TitanForge Engineering",Lisa Wang,l.wang@titanforgeengineerin.com,TitanForge Engineering,,,,,False,False,False,False,PAIR-0461,,,,,,,,True,,
+EMAIL-0150,invoice_submission,Invoice attached – F-2024-85130,"Hi Customer,
+
+We are sending you invoice no. F-2024-85130 for thermal insulation panels.
+
+Invoice amount: 94 294.70 GBP
+Due date: January 21, 2025
+
+The invoice is attached in the agreed format. Please process at your earliest convenience.
+
+Best regards,
+Lisa Wang
+Delta Precision Parts",Lisa Wang,l.wang@deltaprecisionparts.com,Delta Precision Parts,94294.7,GBP,F-2024-85130,2025-01-21,True,True,True,True,PAIR-0150,attachments/invoice_0150.pdf,pdf,invoice,94294.7,GBP,F-2024-85130,2025-01-21,True,,
+EMAIL-0290,price_validity_confirmation,RE: Quotation Q-2026-45024 – validity update,"Hello Procurement Team,
+
+Good news — the pricing from our quotation Q-2026-45024 has not changed. The quoted total of 3 794.47 CHF holds until 19 Feb 2026.
+
+Don't hesitate to reach out if you need anything else.
+
+Best,
+Michael Brown
+JetStream Packaging Co.",Michael Brown,m.brown@jetstreampackagingco.com,JetStream Packaging Co.,3794.47,CHF,Q-2026-45024,2026-02-19,True,True,True,True,PAIR-0290,,,,,,,,True,,
+EMAIL-0242,price_validity_confirmation,Confirmation: prices still valid,"Hi Alex,
+
+As requested, we confirm that our offer remains unchanged. All previously communicated terms are still in effect.
+
+Best regards,
+Elena Popescu
+FairPoint Logistics",Elena Popescu,e.popescu@fairpointlogistics.com,FairPoint Logistics,,,,,False,False,False,False,PAIR-0242,,,,,,,,True,,
+EMAIL-0061,quote_offer,YieldMax Agriculture Supply – Quotation QUO-2024-14474,"Hello Alex,
+
+We have prepared quotation QUO-2024-14474 as requested. The quoted value is 109243.18 EUR, with a validity period ending on 03/30/2025.
+
+Full details are enclosed. We hope this meets your requirements and look forward to working with you.
+
+Best,
+Fatima Al-Rashid
+YieldMax Agriculture Supply",Fatima Al-Rashid,f.alrashid@yieldmaxagricultures.com,YieldMax Agriculture Supply,109243.18,EUR,QUO-2024-14474,2025-03-30,True,True,True,True,PAIR-0061,attachments/quotation_0061.pdf,pdf,quotation,129999.38,EUR,QUO-2024-14474,2025-03-30,False,amount,amount
+EMAIL-0160,invoice_submission,Invoice for precision cutting tools,"Hi Purchasing Department,
+
+Attached is the invoice for your recent order. All details are in the document.
+
+Thank you,
+Sophie Laurent
+Delta Precision Parts",Sophie Laurent,s.laurent@deltaprecisionparts.com,Delta Precision Parts,,,,,False,False,False,False,PAIR-0160,attachments/invoice_0160.pdf,pdf,invoice,148235.59,CHF,BILL-2024-90091,2024-09-30,True,,
+EMAIL-0228,invoice_submission,Invoice – TitanForge Engineering,"Hi Customer,
+
+Attached is the invoice for your recent order. All details are in the document.
+
+Thank you,
+Ahmed Hassan
+TitanForge Engineering",Ahmed Hassan,a.hassan@titanforgeengineerin.com,TitanForge Engineering,,,,,False,False,False,False,PAIR-0228,attachments/invoice_0228.png,png,invoice,9166.53,EUR,FV-2026-49997,2024-09-11,True,,
+EMAIL-0074,quote_offer,Quotation for your review,"Hi Alex,
+
+As requested, I'm sending over our offer for your review. Everything is detailed in the attachment.
+
+Let me know if you have any questions or if anything needs to be adjusted.
+
+Cheers,
+Lisa Wang
+RedLine Automotive Parts",Lisa Wang,l.wang@redlineautomotivepar.com,RedLine Automotive Parts,,,,,False,False,False,False,PAIR-0074,attachments/quotation_0074.png,png,quotation,15838.39,GBP,Q-2025-59447,2025-01-28,True,,
+EMAIL-0338,price_increase,New pricing effective,"Hi Team,
+
+Please note that we will be revising our pricing structure in the near future. Details will follow shortly.
+
+Thank you for your understanding.
+
+Best,
+Fatima Al-Rashid
+NorthStar Industrial",Fatima Al-Rashid,f.alrashid@northstarindustrial.com,NorthStar Industrial,,,,,False,False,False,False,PAIR-0338,attachments/price_list_0338.png,png,price_list,1904.24,USD,PR-2024-68284,2025-10-30,True,,
+EMAIL-0254,price_validity_confirmation,Confirmation: prices still valid,"Hi Customer,
+
+As requested, we confirm that our offer remains unchanged. All previously communicated terms are still in effect.
+
+Best regards,
+Carlos Mendez
+YieldMax Agriculture Supply",Carlos Mendez,c.mendez@yieldmaxagricultures.com,YieldMax Agriculture Supply,,,,,False,False,False,False,PAIR-0254,,,,,,,,True,,
+EMAIL-0436,other,Thank you for your order,"Dear Procurement Team,
+
+Thank you for your continued partnership. We are reaching out to schedule our annual review meeting. Would any time next week work for you?
+
+Looking forward to your reply.
+
+Kind regards,
+Sarah Johnson
+GlobalWire Electronics",Sarah Johnson,s.johnson@globalwireelectronic.com,GlobalWire Electronics,,,,,False,False,False,False,PAIR-0436,,,,,,,,True,,
+EMAIL-0059,quote_offer,YieldMax Agriculture Supply – Quotation Q-2024-17932,"Dear Alex,
+
+Thank you for your inquiry. Please find attached our quotation Q-2024-17932 for safety valves and pressure regulators.
+
+The total quoted amount is 49554.00 RON, valid until 2026-01-11.
+
+Should you have any questions or require adjustments, please do not hesitate to contact us.
+
+Best regards,
+Robert Taylor
+YieldMax Agriculture Supply",Robert Taylor,r.taylor@yieldmaxagricultures.com,YieldMax Agriculture Supply,49554.0,RON,Q-2024-17932,2026-01-11,True,True,True,True,PAIR-0059,attachments/quotation_0059.pdf,pdf,quotation,49554.0,RON,Q-2024-17932,2026-01-11,True,,
+EMAIL-0201,invoice_submission,Billing: – Delta Precision Parts,"Dear Procurement Team,
+
+I'm sending you the invoice for welding consumables and electrodes as agreed. Please review the attached and process accordingly.
+
+Best regards,
+Rachel Kim
+Delta Precision Parts",Rachel Kim,r.kim@deltaprecisionparts.com,Delta Precision Parts,,,,,False,False,False,False,PAIR-0201,attachments/invoice_0201.png,png,invoice,100733.2,USD,BILL-2026-34776,2025-10-27,True,,
+EMAIL-0475,other,RE: Pending items,"Hi Purchasing Department,
+
+Just a quick follow-up on our conversation from last week. Please let us know if you need any additional information from our side.
+
+Thanks,
+Ivan Petrov
+FairPoint Logistics",Ivan Petrov,i.petrov@fairpointlogistics.com,FairPoint Logistics,,,,,False,False,False,False,PAIR-0475,,,,,,,,True,,
+EMAIL-0154,invoice_submission,Billing: – JetStream Packaging Co.,"Hi Customer,
+
+Attached is the invoice for your recent order. All details are in the document.
+
+Thank you,
+Robert Taylor
+JetStream Packaging Co.",Robert Taylor,r.taylor@jetstreampackagingco.com,JetStream Packaging Co.,,,,,False,False,False,False,PAIR-0154,attachments/invoice_0154.png,png,invoice,171675.31,EUR,F-2024-40384,2025-06-09,True,,
+EMAIL-0493,other,Account update – WestBridge Plastics,"Hi Alex,
+
+Just a quick follow-up on our conversation from last week. Please let us know if you need any additional information from our side.
+
+Thanks,
+Priya Sharma
+WestBridge Plastics",Priya Sharma,p.sharma@westbridgeplastics.com,WestBridge Plastics,,,,,False,False,False,False,PAIR-0493,,,,,,,,True,,
+EMAIL-0280,price_validity_confirmation,Price validity extension – QT-2025-6677,"Hi Alex,
+
+This is to confirm that our offer QT-2025-6677 is still active.
+
+Confirmed amount: 31834.00 CHF
+Valid through: 11 Sep 2024
+
+Let us know if you wish to proceed.
+
+Regards,
+Fatima Al-Rashid
+UltraSpec Optics",Fatima Al-Rashid,f.alrashid@ultraspecoptics.com,UltraSpec Optics,31834.0,CHF,QT-2025-6677,2024-09-11,True,True,True,True,PAIR-0280,attachments/quotation_0280.png,png,quotation,31834.0,CHF,QT-2025-6677,2024-09-12,False,date,date
+EMAIL-0106,quote_offer,Quotation – BrightLine Components Ltd.,"Dear Purchasing Department,
+
+Following your request, we have prepared a quotation for welding consumables and electrodes. Please see the attached file for the full breakdown.
+
+We remain at your disposal for any further information.
+
+Regards,
+John Smith
+BrightLine Components Ltd.",John Smith,john.smith@brightlinecomponents.com,BrightLine Components Ltd.,,,,,False,False,False,False,PAIR-0106,attachments/quotation_0106.png,png,quotation,12861.58,GBP,QT-2026-13499,2025-03-05,True,,
+EMAIL-0474,other,RE: Order status update,"Dear Purchasing Department,
+
+Thank you for your recent order. We wanted to let you know that it has been received and is currently being processed.
+
+We will notify you once the shipment is ready.
+
+Best regards,
+Ahmed Hassan
+NorthStar Industrial",Ahmed Hassan,a.hassan@northstarindustrial.com,NorthStar Industrial,,,,,False,False,False,False,PAIR-0474,,,,,,,,True,,
+EMAIL-0093,quote_offer,Apex Industrial Solutions – Quotation QT-2025-77344,"Dear Customer,
+
+Attached is our quotation (QT-2025-77344) for the items you requested. The total price is 35 710.43 GBP.
+
+Please note that this offer expires on 25 Apr 2025. We would appreciate your confirmation at your earliest convenience.
+
+Thank you,
+Robert Taylor
+Apex Industrial Solutions",Robert Taylor,r.taylor@apexindustrialsoluti.com,Apex Industrial Solutions,35710.43,GBP,QT-2025-77344,2025-04-25,True,True,True,True,PAIR-0093,attachments/quotation_0093.pdf,pdf,quotation,35924.19,GBP,QT-2025-77344,2025-04-25,False,amount,amount
+EMAIL-0306,price_validity_confirmation,Confirmation of current pricing,"Hi Purchasing Department,
+
+As requested, we confirm that our offer remains unchanged. All previously communicated terms are still in effect.
+
+Best regards,
+Ivan Petrov
+GlobalWire Electronics",Ivan Petrov,i.petrov@globalwireelectronic.com,GlobalWire Electronics,,,,,False,False,False,False,PAIR-0306,attachments/quotation_0306.pdf,pdf,quotation,61432.91,GBP,QT-2024-62066,2025-12-08,True,,
+EMAIL-0270,price_validity_confirmation,Confirmation of current pricing,"Dear Alex,
+
+We can confirm that the prices from our previous quotation are still valid. No changes have been made.
+
+Please let us know if you'd like to go ahead with the order.
+
+Regards,
+Carlos Mendez
+CedarTech Manufacturing",Carlos Mendez,c.mendez@cedartechmanufacturi.com,CedarTech Manufacturing,,,,,False,False,False,False,PAIR-0270,attachments/quotation_0270.png,png,quotation,115519.19,GBP,QT-2025-22229,2025-03-29,True,,
+EMAIL-0127,invoice_submission,Invoice attached,"Dear Customer,
+
+Please find the attached invoice for the goods delivered last week.
+
+Let us know if everything is in order.
+
+Regards,
+Ahmed Hassan
+NorthStar Industrial",Ahmed Hassan,a.hassan@northstarindustrial.com,NorthStar Industrial,,,,,False,False,False,False,PAIR-0127,attachments/invoice_0127.pdf,pdf,invoice,14351.5,USD,BILL-2024-42071,2025-05-03,True,,
+EMAIL-0012,quote_offer,Our offer for industrial-grade fasteners and fittings,"Dear Customer,
+
+Following your request, we have prepared a quotation for industrial-grade fasteners and fittings. Please see the attached file for the full breakdown.
+
+We remain at your disposal for any further information.
+
+Regards,
+Rachel Kim
+NorthStar Industrial",Rachel Kim,r.kim@northstarindustrial.com,NorthStar Industrial,,,,,False,False,False,False,PAIR-0012,attachments/quotation_0012.pdf,pdf,quotation,23642.0,USD,QT-2026-97434,2025-05-10,True,,
+EMAIL-0391,price_increase,Price revision notice,"Hi Procurement Team,
+
+Please note that we will be revising our pricing structure in the near future. Details will follow shortly.
+
+Thank you for your understanding.
+
+Best,
+Thomas Mueller
+OmniParts Distribution",Thomas Mueller,t.mueller@omnipartsdistributio.com,OmniParts Distribution,,,,,False,False,False,False,PAIR-0391,,,,,,,,True,,
+EMAIL-0185,invoice_submission,RE: Payment – Invoice FV-2024-73551,"Hi Alex,
+
+We are sending you invoice no. FV-2024-73551 for the requested mechanical components.
+
+Invoice amount: 135 522.35 £
+Due date: October 20, 2024
+
+The invoice is attached in the agreed format. Please process at your earliest convenience.
+
+Best regards,
+Ahmed Hassan
+JetStream Packaging Co.",Ahmed Hassan,a.hassan@jetstreampackagingco.com,JetStream Packaging Co.,135522.35,GBP,FV-2024-73551,2024-10-20,True,True,True,True,PAIR-0185,attachments/invoice_0185.pdf,pdf,invoice,155850.7,GBP,FV-2024-73551,2024-10-20,False,amount,amount
+EMAIL-0214,invoice_submission,Billing: – CedarTech Manufacturing,"Dear Procurement Team,
+
+Please find the attached invoice for the goods delivered last week.
+
+Let us know if everything is in order.
+
+Regards,
+Ahmed Hassan
+CedarTech Manufacturing",Ahmed Hassan,a.hassan@cedartechmanufacturi.com,CedarTech Manufacturing,,,,,False,False,False,False,PAIR-0214,attachments/invoice_0214.png,png,invoice,98817.19,GBP,F-2025-49679,2024-08-17,True,,
+EMAIL-0404,other,Thank you for your order,"Hi Customer,
+
+Just a quick follow-up on our conversation from last week. Please let us know if you need any additional information from our side.
+
+Thanks,
+Thomas Mueller
+YieldMax Agriculture Supply",Thomas Mueller,t.mueller@yieldmaxagricultures.com,YieldMax Agriculture Supply,,,,,False,False,False,False,PAIR-0404,,,,,,,,True,,
+EMAIL-0496,other,RE: Meeting follow-up,"Dear Alex,
+
+We wanted to confirm that your delivery has been dispatched and should arrive within 3-5 business days.
+
+Tracking information will be sent separately.
+
+Regards,
+Thomas Mueller
+TitanForge Engineering",Thomas Mueller,t.mueller@titanforgeengineerin.com,TitanForge Engineering,,,,,False,False,False,False,PAIR-0496,,,,,,,,True,,
+EMAIL-0017,quote_offer,Price quotation attached – TitanForge Engineering,"Hi Purchasing Department,
+
+As requested, I'm sending over our offer for your review. Everything is detailed in the attachment.
+
+Let me know if you have any questions or if anything needs to be adjusted.
+
+Cheers,
+Ahmed Hassan
+TitanForge Engineering",Ahmed Hassan,a.hassan@titanforgeengineerin.com,TitanForge Engineering,,,,,False,False,False,False,PAIR-0017,attachments/quotation_0017.png,png,quotation,129758.55,EUR,QUO-2025-4248,2025-07-13,True,,
+EMAIL-0435,other,Quick update from QuickFlow Hydraulics,"Hi Alex,
+
+We have updated our bank account details for future payments. Please find the new information below and update your records.
+
+If you have any questions, please contact our finance team.
+
+Best regards,
+Lisa Wang
+QuickFlow Hydraulics",Lisa Wang,l.wang@quickflowhydraulics.com,QuickFlow Hydraulics,,,,,False,False,False,False,PAIR-0435,,,,,,,,True,,
+EMAIL-0352,price_increase,Notice of price increase – effective,"Dear Alex,
+
+We would like to notify you of upcoming changes to our price list. The updated pricing details are attached.
+
+We apologize for any inconvenience and remain available to discuss.
+
+Regards,
+Ivan Petrov
+OmniParts Distribution",Ivan Petrov,i.petrov@omnipartsdistributio.com,OmniParts Distribution,,,,,False,False,False,False,PAIR-0352,,,,,,,,True,,
+EMAIL-0091,quote_offer,Commercial offer – FairPoint Logistics,"Dear Purchasing Department,
+
+Following your request, we have prepared a quotation for chemical reagents for lab testing. Please see the attached file for the full breakdown.
+
+We remain at your disposal for any further information.
+
+Regards,
+Priya Sharma
+FairPoint Logistics",Priya Sharma,p.sharma@fairpointlogistics.com,FairPoint Logistics,,,,,False,False,False,False,PAIR-0091,attachments/quotation_0091.pdf,pdf,quotation,140121.0,RON,OFF-2025-25420,2024-07-25,True,,
+EMAIL-0014,quote_offer,Commercial offer – Keystone Fasteners Inc.,"Dear Procurement Team,
+
+Please find attached our quotation for hydraulic pump assemblies as discussed.
+
+All pricing details and terms are included in the attached document. Feel free to reach out if you need any clarification.
+
+Best regards,
+David Chen
+Keystone Fasteners Inc.",David Chen,d.chen@keystonefastenersinc.com,Keystone Fasteners Inc.,,,,,False,False,False,False,PAIR-0014,attachments/quotation_0014.png,png,quotation,69013.69,USD,QUO-2024-71468,2025-12-19,True,,
+EMAIL-0354,price_increase,Updated price list – RedLine Automotive Parts,"Dear Team,
+
+This is a courtesy notice regarding an upcoming adjustment to our standard pricing. The changes reflect increased costs across several product categories.
+
+We will share the updated price list soon.
+
+Sincerely,
+Hannah Fischer
+RedLine Automotive Parts",Hannah Fischer,h.fischer@redlineautomotivepar.com,RedLine Automotive Parts,,,,,False,False,False,False,PAIR-0354,attachments/price_list_0354.pdf,pdf,price_list,6537.77,RON,PL-2024-40522,2024-09-28,True,,
+EMAIL-0301,price_validity_confirmation,Confirmation: prices still valid,"Dear Team,
+
+Thank you for checking in. We are happy to confirm that the quoted prices have not been revised and remain applicable.
+
+Kind regards,
+Ahmed Hassan
+Apex Industrial Solutions",Ahmed Hassan,a.hassan@apexindustrialsoluti.com,Apex Industrial Solutions,,,,,False,False,False,False,PAIR-0301,,,,,,,,True,,
+EMAIL-0052,quote_offer,Offer for the requested mechanical components – OFF-2024-71807,"Dear Team,
+
+Thank you for your inquiry. Please find attached our quotation OFF-2024-71807 for the requested mechanical components.
+
+The total quoted amount is 923,91 €, valid until December 25, 2024.
+
+Should you have any questions or require adjustments, please do not hesitate to contact us.
+
+Best regards,
+Ahmed Hassan
+YieldMax Agriculture Supply",Ahmed Hassan,a.hassan@yieldmaxagricultures.com,YieldMax Agriculture Supply,923.91,EUR,OFF-2024-71807,2024-12-25,True,True,True,True,PAIR-0052,attachments/quotation_0052.png,png,quotation,923.91,EUR,OFF-2024-71807,2024-12-25,True,,
+EMAIL-0021,quote_offer,Quotation for your review,"Dear Customer,
+
+Please find attached our quotation for safety valves and pressure regulators as discussed.
+
+All pricing details and terms are included in the attached document. Feel free to reach out if you need any clarification.
+
+Best regards,
+Thomas Mueller
+UltraSpec Optics",Thomas Mueller,t.mueller@ultraspecoptics.com,UltraSpec Optics,,,,,False,False,False,False,PAIR-0021,attachments/quotation_0021.pdf,pdf,quotation,66547.01,CHF,QUO-2025-97463,2024-10-16,True,,
+EMAIL-0175,invoice_submission,Invoice for hydraulic pump assemblies,"Hello Team,
+
+This email contains invoice FV-2026-64298 for your records.
+
+Amount due: 147295.54 RON
+Payment terms: Net 30 (due February 13, 2026)
+
+Should you require a revised copy or have billing questions, please don't hesitate to reach out.
+
+Kind regards,
+John Smith
+PrimeEdge Components",John Smith,john.smith@primeedgecomponents.com,PrimeEdge Components,147295.54,RON,FV-2026-64298,2026-02-13,True,True,True,True,PAIR-0175,attachments/invoice_0175.pdf,pdf,invoice,147295.54,RON,FV-2026-64298,2026-02-06,False,date,date
+EMAIL-0224,invoice_submission,Invoice FV-2026-68013 – please process,"Hi Alex,
+
+We are sending you invoice no. FV-2026-68013 for injection molding components.
+
+Invoice amount: 4 535.93 GBP
+Due date: 2024-09-20
+
+The invoice is attached in the agreed format. Please process at your earliest convenience.
+
+Best regards,
+Michael Brown
+Harmon Tools & Equipment",Michael Brown,m.brown@harmontools&equipmen.com,Harmon Tools & Equipment,4535.93,GBP,FV-2026-68013,2024-09-20,True,True,True,True,PAIR-0224,attachments/invoice_0224.pdf,pdf,invoice,4944.16,GBP,FV-2026-68013,2024-09-20,False,amount,amount
+EMAIL-0412,other,Account update – FairPoint Logistics,"Hello Customer,
+
+We are writing to inform you that our offices will be closed for the holiday period from December 23 to January 2. Orders placed after December 20 will be processed in January.
+
+Happy holidays!
+
+Best,
+Michael Brown
+FairPoint Logistics",Michael Brown,m.brown@fairpointlogistics.com,FairPoint Logistics,,,,,False,False,False,False,PAIR-0412,attachments/generic_0412.png,png,generic,47859.13,GBP,DOC-2026-93946,2026-03-13,True,,
+EMAIL-0170,invoice_submission,New invoice from BrightLine Components Ltd.,"Hi Alex,
+
+Attached is the invoice for your recent order. All details are in the document.
+
+Thank you,
+David Chen
+BrightLine Components Ltd.",David Chen,d.chen@brightlinecomponents.com,BrightLine Components Ltd.,,,,,False,False,False,False,PAIR-0170,attachments/invoice_0170.pdf,pdf,invoice,131064.0,CHF,FV-2026-76582,2025-08-11,True,,
+EMAIL-0388,price_increase,Updated price list – BrightLine Components Ltd.,"Dear Team,
+
+This notice is to inform you of an upcoming price revision for optical sensors and calibration kits.
+
+Effective date: 2025-12-16
+Revised amount: 6,230.20 RON
+
+We value your partnership and have done our best to keep the adjustment as minimal as possible.
+
+Regards,
+Carlos Mendez
+BrightLine Components Ltd.",Carlos Mendez,c.mendez@brightlinecomponents.com,BrightLine Components Ltd.,6230.2,RON,,2025-12-16,True,True,False,True,PAIR-0388,,,,,,,,True,,
+EMAIL-0297,price_validity_confirmation,Confirmation: prices still valid,"Dear Team,
+
+Following your inquiry, we are pleased to confirm that the prices in quotation Q-2025-38940 remain valid until 08/17/2024.
+
+The total amount of 113.409,00 € as originally quoted is still applicable. Please feel free to place your order before the expiration date.
+
+Best regards,
+Carlos Mendez
+RedLine Automotive Parts",Carlos Mendez,c.mendez@redlineautomotivepar.com,RedLine Automotive Parts,113409.0,EUR,Q-2025-38940,2024-08-17,True,True,True,True,PAIR-0297,,,,,,,,True,,
+EMAIL-0153,invoice_submission,Delta Precision Parts – Invoice BILL-2025-54856,"Dear Team,
+
+Please find enclosed our invoice BILL-2025-54856 for 155953.03 CHF covering welding consumables and electrodes.
+
+The due date for payment is 27 Aug 2025. We kindly ask that you process this within the agreed timeline.
+
+Thank you for your business.
+
+Best,
+Sarah Johnson
+Delta Precision Parts",Sarah Johnson,s.johnson@deltaprecisionparts.com,Delta Precision Parts,155953.03,CHF,BILL-2025-54856,2025-08-27,True,True,True,True,PAIR-0153,attachments/invoice_0153.pdf,pdf,invoice,156363.55,CHF,BILL-2025-54856,2025-08-27,False,amount,amount
+EMAIL-0416,other,Account update – Lakewood Chemical Supply,"Dear Purchasing Department,
+
+This is a reminder that there are outstanding items on your account. Please review and let us know if there's anything we can help with.
+
+Thank you,
+Elena Popescu
+Lakewood Chemical Supply",Elena Popescu,e.popescu@lakewoodchemicalsupp.com,Lakewood Chemical Supply,,,,,False,False,False,False,PAIR-0416,,,,,,,,True,,
+EMAIL-0147,invoice_submission,CedarTech Manufacturing – Invoice,"Dear Alex,
+
+I'm sending you the invoice for PCB boards and microcontrollers as agreed. Please review the attached and process accordingly.
+
+Best regards,
+Fatima Al-Rashid
+CedarTech Manufacturing",Fatima Al-Rashid,f.alrashid@cedartechmanufacturi.com,CedarTech Manufacturing,,,,,False,False,False,False,PAIR-0147,attachments/invoice_0147.pdf,pdf,invoice,157446.6,USD,F-2025-58438,2025-01-17,True,,
+EMAIL-0046,quote_offer,RE: Request for Quotation,"Dear Alex,
+
+Following your request, we have prepared a quotation for conveyor belt rollers and bearings. Please see the attached file for the full breakdown.
+
+We remain at your disposal for any further information.
+
+Regards,
+James Wilson
+Apex Industrial Solutions",James Wilson,j.wilson@apexindustrialsoluti.com,Apex Industrial Solutions,,,,,False,False,False,False,PAIR-0046,attachments/quotation_0046.png,png,quotation,1710.65,USD,Q-2026-98671,2025-05-04,True,,
+EMAIL-0158,invoice_submission,Invoice – please process,"Dear Alex,
+
+I'm sending you the invoice for safety valves and pressure regulators as agreed. Please review the attached and process accordingly.
+
+Best regards,
+Thomas Mueller
+CedarTech Manufacturing",Thomas Mueller,t.mueller@cedartechmanufacturi.com,CedarTech Manufacturing,,,,,False,False,False,False,PAIR-0158,attachments/invoice_0158.png,png,invoice,128190.83,GBP,BILL-2026-94204,2025-01-09,True,,
+EMAIL-0027,quote_offer,Price quotation attached – Keystone Fasteners Inc.,"Dear Alex,
+
+Please find attached our quotation for precision cutting tools as discussed.
+
+All pricing details and terms are included in the attached document. Feel free to reach out if you need any clarification.
+
+Best regards,
+James Wilson
+Keystone Fasteners Inc.",James Wilson,j.wilson@keystonefastenersinc.com,Keystone Fasteners Inc.,,,,,False,False,False,False,PAIR-0027,attachments/quotation_0027.pdf,pdf,quotation,112925.47,GBP,QT-2024-62644,2025-12-26,True,,
+EMAIL-0204,invoice_submission,Invoice – please process,"Hi Customer,
+
+Attached is the invoice for your recent order. All details are in the document.
+
+Thank you,
+Robert Taylor
+SilverOak Metals",Robert Taylor,r.taylor@silveroakmetals.com,SilverOak Metals,,,,,False,False,False,False,PAIR-0204,attachments/invoice_0204.png,png,invoice,36737.8,CHF,FV-2025-53150,2026-02-11,True,,
+EMAIL-0086,quote_offer,Price quotation attached – JetStream Packaging Co.,"Hi Team,
+
+As per your request, we are pleased to submit our commercial offer.
+
+Quotation number: QT-2026-30824
+Total: 71,451.24 CHF
+Validity: 2026-04-05
+
+The detailed breakdown is in the attached document. Please let us know if you'd like to proceed.
+
+Kind regards,
+John Smith
+JetStream Packaging Co.",John Smith,john.smith@jetstreampackagingco.com,JetStream Packaging Co.,71451.24,CHF,QT-2026-30824,2026-04-05,True,True,True,True,PAIR-0086,attachments/quotation_0086.pdf,pdf,quotation,71451.24,RON,QT-2026-30824,2026-04-05,False,currency,currency
+EMAIL-0219,invoice_submission,RE: Payment – Invoice F-2025-25886,"Dear Alex,
+
+Please find attached invoice F-2025-25886 in the amount of 144,256.51 CHF.
+
+Payment is due by January 16, 2026. If you have any questions regarding this invoice, please contact our accounting department.
+
+Thank you,
+Anna Kowalski
+TitanForge Engineering",Anna Kowalski,a.kowalski@titanforgeengineerin.com,TitanForge Engineering,144256.51,CHF,F-2025-25886,2026-01-16,True,True,True,True,PAIR-0219,attachments/invoice_0219.pdf,pdf,invoice,144256.51,CHF,F-2025-25886,2026-01-16,True,,
+EMAIL-0407,other,MeridianTech Systems – general update,"Hello Alex,
+
+We are writing to inform you that our offices will be closed for the holiday period from December 23 to January 2. Orders placed after December 20 will be processed in January.
+
+Happy holidays!
+
+Best,
+Ivan Petrov
+MeridianTech Systems",Ivan Petrov,i.petrov@meridiantechsystems.com,MeridianTech Systems,,,,,False,False,False,False,PAIR-0407,,,,,,,,True,,
+EMAIL-0382,price_increase,Price adjustment notice – Harmon Tools & Equipment,"Dear Team,
+
+This notice is to inform you of an upcoming price revision for the requested mechanical components.
+
+Effective date: 21 Aug 2025
+Revised amount: 2170.73 £
+
+We value your partnership and have done our best to keep the adjustment as minimal as possible.
+
+Regards,
+Carlos Mendez
+Harmon Tools & Equipment",Carlos Mendez,c.mendez@harmontools&equipmen.com,Harmon Tools & Equipment,2170.73,GBP,,2025-08-21,True,True,False,True,PAIR-0382,,,,,,,,True,,
+EMAIL-0325,price_increase,Notice of price increase – effective,"Dear Alex,
+
+This is a courtesy notice regarding an upcoming adjustment to our standard pricing. The changes reflect increased costs across several product categories.
+
+We will share the updated price list soon.
+
+Sincerely,
+Elena Popescu
+Delta Precision Parts",Elena Popescu,e.popescu@deltaprecisionparts.com,Delta Precision Parts,,,,,False,False,False,False,PAIR-0325,attachments/price_list_0325.pdf,pdf,price_list,5088.03,CHF,REV-2026-72791,2025-07-12,True,,
+EMAIL-0284,price_validity_confirmation,Apex Industrial Solutions – price confirmation,"Hello Procurement Team,
+
+Good news — the pricing from our quotation Q-2024-56797 has not changed. The quoted total of 6.488,77 CHF holds until 02 Dec 2025.
+
+Don't hesitate to reach out if you need anything else.
+
+Best,
+Priya Sharma
+Apex Industrial Solutions",Priya Sharma,p.sharma@apexindustrialsoluti.com,Apex Industrial Solutions,6488.77,CHF,Q-2024-56797,2025-12-02,True,True,True,True,PAIR-0284,,,,,,,,True,,
+EMAIL-0342,price_increase,Notice of price increase – effective 12/27/2024,"Hi Alex,
+
+Please be advised that our prices will be updated as of 12/27/2024.
+
+New pricing: 922.00 € for replacement parts for production line B.
+
+Orders placed before 12/27/2024 will be honored at the current rates. We appreciate your understanding.
+
+Best regards,
+James Wilson
+WestBridge Plastics",James Wilson,j.wilson@westbridgeplastics.com,WestBridge Plastics,922.0,EUR,,2024-12-27,True,True,False,True,PAIR-0342,,,,,,,,True,,
+EMAIL-0251,price_validity_confirmation,YieldMax Agriculture Supply – price confirmation,"Dear Procurement Team,
+
+In response to your email, we confirm that quotation QUO-2025-27287 for 86,845.20 € is still valid. The prices will be honored until 2025-04-22.
+
+We look forward to your confirmation.
+
+Kind regards,
+Lisa Wang
+YieldMax Agriculture Supply",Lisa Wang,l.wang@yieldmaxagricultures.com,YieldMax Agriculture Supply,86845.2,EUR,QUO-2025-27287,2025-04-22,True,True,True,True,PAIR-0251,,,,,,,,True,,
+EMAIL-0324,price_increase,Price revision notice,"Hi Alex,
+
+Please note that we will be revising our pricing structure in the near future. Details will follow shortly.
+
+Thank you for your understanding.
+
+Best,
+Anna Kowalski
+YieldMax Agriculture Supply",Anna Kowalski,a.kowalski@yieldmaxagricultures.com,YieldMax Agriculture Supply,,,,,False,False,False,False,PAIR-0324,,,,,,,,True,,
+EMAIL-0107,quote_offer,RE: Request for Quotation,"Dear Purchasing Department,
+
+Following your request, we have prepared a quotation for welding consumables and electrodes. Please see the attached file for the full breakdown.
+
+We remain at your disposal for any further information.
+
+Regards,
+Omar Youssef
+GlobalWire Electronics",Omar Youssef,o.youssef@globalwireelectronic.com,GlobalWire Electronics,,,,,False,False,False,False,PAIR-0107,attachments/quotation_0107.png,png,quotation,112962.04,RON,QUO-2024-40226,2026-02-13,True,,
+EMAIL-0489,other,RE: Order status update,"Hi Customer,
+
+We have updated our bank account details for future payments. Please find the new information below and update your records.
+
+If you have any questions, please contact our finance team.
+
+Best regards,
+Elena Popescu
+ZenithCraft Industries",Elena Popescu,e.popescu@zenithcraftindustrie.com,ZenithCraft Industries,,,,,False,False,False,False,PAIR-0489,,,,,,,,True,,
+EMAIL-0445,other,BrightLine Components Ltd. – general update,"Dear Customer,
+
+This is a reminder that there are outstanding items on your account. Please review and let us know if there's anything we can help with.
+
+Thank you,
+Priya Sharma
+BrightLine Components Ltd.",Priya Sharma,p.sharma@brightlinecomponents.com,BrightLine Components Ltd.,,,,,False,False,False,False,PAIR-0445,,,,,,,,True,,
+EMAIL-0409,other,Quick update from Lakewood Chemical Supply,"Dear Customer,
+
+Thank you for your continued partnership. We are reaching out to schedule our annual review meeting. Would any time next week work for you?
+
+Looking forward to your reply.
+
+Kind regards,
+James Wilson
+Lakewood Chemical Supply",James Wilson,j.wilson@lakewoodchemicalsupp.com,Lakewood Chemical Supply,,,,,False,False,False,False,PAIR-0409,,,,,,,,True,,
+EMAIL-0066,quote_offer,Quotation – YieldMax Agriculture Supply,"Hi Team,
+
+As requested, I'm sending over our offer for your review. Everything is detailed in the attachment.
+
+Let me know if you have any questions or if anything needs to be adjusted.
+
+Cheers,
+Rachel Kim
+YieldMax Agriculture Supply",Rachel Kim,r.kim@yieldmaxagricultures.com,YieldMax Agriculture Supply,,,,,False,False,False,False,PAIR-0066,attachments/quotation_0066.png,png,quotation,6143.25,CHF,Q-2024-79282,2024-12-10,True,,

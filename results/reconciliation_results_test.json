@@ -1,0 +1,22 @@
+{
+  "text_only": {
+    "field_extraction_accuracy": 1.0,
+    "correct": 111,
+    "total": 111
+  },
+  "document_only": {
+    "field_extraction_accuracy": 0.9772727272727273,
+    "correct": 215,
+    "total": 220
+  },
+  "multimodal": {
+    "accuracy": 0.9818181818181818,
+    "precision": 1.0,
+    "recall": 0.9166666666666666,
+    "f1": 0.9565217391304348,
+    "tp": 11,
+    "fp": 0,
+    "tn": 43,
+    "fn": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "paradigm_3_donut": {
+    "model": "naver-clova-ix/donut-base",
+    "clean_accuracy": 0.9863636363636363,
+    "clean_per_field": {
+      "amount": {
+        "correct": 55,
+        "total": 55
+      },
+      "currency": {
+        "correct": 55,
+        "total": 55
+      },
+      "doc_number": {
+        "correct": 53,
+        "total": 55
+      },
+      "date": {
+        "correct": 54,
+        "total": 55
+      }
+    },
+    "augmented_accuracy": 0.9636363636363636,
+    "augmented_per_field": {
+      "amount": {
+        "correct": 54,
+        "total": 55
+      },
+      "currency": {
+        "correct": 52,
+        "total": 55
+      },
+      "doc_number": {
+        "correct": 53,
+        "total": 55
+      },
+      "date": {
+        "correct": 53,
+        "total": 55
+      }
+    },
+    "training_epochs": 15,
+    "image_size": [
+      360,
+      480
+    ]
+  }
+}

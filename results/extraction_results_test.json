@@ -1,0 +1,30 @@
+{
+  "field_results": {
+    "amount": {
+      "correct": 29,
+      "incorrect": 0,
+      "missing": 0,
+      "not_applicable": 57
+    },
+    "currency": {
+      "correct": 29,
+      "incorrect": 0,
+      "missing": 0,
+      "not_applicable": 57
+    },
+    "doc_number": {
+      "correct": 24,
+      "incorrect": 0,
+      "missing": 0,
+      "not_applicable": 62
+    },
+    "date": {
+      "correct": 29,
+      "incorrect": 0,
+      "missing": 0,
+      "not_applicable": 57
+    }
+  },
+  "num_errors": 0,
+  "errors": []
+}

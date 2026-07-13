@@ -1,0 +1,21 @@
+{
+  "donut_clean_accuracy": 0.9863636363636363,
+  "per_field": {
+    "amount": {
+      "correct": 55,
+      "total": 55
+    },
+    "currency": {
+      "correct": 55,
+      "total": 55
+    },
+    "doc_number": {
+      "correct": 53,
+      "total": 55
+    },
+    "date": {
+      "correct": 54,
+      "total": 55
+    }
+  }
+}

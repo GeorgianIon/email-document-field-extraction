@@ -1,0 +1,72 @@
+{
+  "field_results": {
+    "amount": {
+      "correct": 55,
+      "incorrect": 0,
+      "missing": 0,
+      "total": 55
+    },
+    "currency": {
+      "correct": 55,
+      "incorrect": 0,
+      "missing": 0,
+      "total": 55
+    },
+    "doc_number": {
+      "correct": 50,
+      "incorrect": 4,
+      "missing": 1,
+      "total": 55
+    },
+    "date": {
+      "correct": 55,
+      "incorrect": 0,
+      "missing": 0,
+      "total": 55
+    }
+  },
+  "num_errors": 5,
+  "errors": [
+    {
+      "pair_id": "PAIR-0090",
+      "field": "doc_number",
+      "error": "wrong_value",
+      "gt": "Q-2025-86575",
+      "pred": "Q-202586875",
+      "doc_path": "attachments/quotation_0090.png"
+    },
+    {
+      "pair_id": "PAIR-0032",
+      "field": "doc_number",
+      "error": "wrong_value",
+      "gt": "QUO-2025-16670",
+      "pred": "AV0-2026-16670",
+      "doc_path": "attachments/quotation_0032.png"
+    },
+    {
+      "pair_id": "PAIR-0079",
+      "field": "doc_number",
+      "error": "wrong_value",
+      "gt": "QT-2026-8263",
+      "pred": "QT-2026-0263",
+      "doc_path": "attachments/quotation_0079.pdf"
+    },
+    {
+      "pair_id": "PAIR-0067",
+      "field": "doc_number",
+      "error": "not_extracted",
+      "gt": "OFF-2026-32348",
+      "pred": null,
+      "doc_path": "attachments/quotation_0067.png",
+      "doc_type": "quotation"
+    },
+    {
+      "pair_id": "PAIR-0075",
+      "field": "doc_number",
+      "error": "wrong_value",
+      "gt": "Q-2024-19714",
+      "pred": "Q-2004-19714",
+      "doc_path": "attachments/quotation_0075.png"
+    }
+  ]
+}
